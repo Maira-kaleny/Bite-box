@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bite-box/static/css/main.1a8eb958.css",
+    "main.js": "/bite-box/static/js/main.1f77d6c0.js",
+    "static/js/787.291c22d1.chunk.js": "/bite-box/static/js/787.291c22d1.chunk.js",
+    "index.html": "/bite-box/index.html",
+    "main.1a8eb958.css.map": "/bite-box/static/css/main.1a8eb958.css.map",
+    "main.1f77d6c0.js.map": "/bite-box/static/js/main.1f77d6c0.js.map",
+    "787.291c22d1.chunk.js.map": "/bite-box/static/js/787.291c22d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8eb958.css",
+    "static/js/main.1f77d6c0.js"
+  ]
+}
